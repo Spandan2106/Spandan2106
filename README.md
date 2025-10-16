@@ -1,22 +1,26 @@
 # 👋 Hi, I'm Spandan Das
 
-🎯 Passionate Software Developer | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
+🎯 Passionate Software Developer |competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
 
 ---
 
 ### 💫 About Me:
 - 🌱 I’m currently learning MERN Stack Web Development  
 - 👨‍💻 All of my projects are available are:
--All my created projects. Beginner 🔰 level projects. ✨ 
--1. The link for my html,css project on calculator is https://procalculaor.netlify.app/
--2. The link for my Tmsl survey form is https://tmslsurveyform.netlify.app/
--3. The link for my project on clone website of GFG is https://geeksclone.netlify.app/
--4. The link of my created weather website is https://weatherappspandan.netlify.app/
--5. The link of my portfolio website(begginer level) https://spandanportfolio20251.netlify.app/
--6. The link of my google clone website is https://googleclone-by-spandan.netlify.app/
+- All my created projects. Beginner 🔰 level projects. ✨ 
+- 1. The link for my html,css project on calculator is https://procalculaor.netlify.app/
+- 2. The link for my Tmsl survey form is https://tmslsurveyform.netlify.app/
+- 3. The link for my project on clone website of GFG is https://geeksclone.netlify.app/
+- 4. The link of my created weather website is https://weatherappspandan.netlify.app/
+- 5. The link of my portfolio website(begginer level) https://spandanportfolio20251.netlify.app/
+- 6. The link of my google clone website is https://googleclone-by-spandan.netlify.app/
+
+### Leetcode profile:
+- https://share.google/PesnJOWs2LgbNlDdc
+---
   
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
-- 📫 How to reach me: sd672483@gmail.com
+- 📫 How to reach me: dasspandan2106@gmail.com
 
 ---
 
@@ -40,6 +44,6 @@
 ---
 
 ### 🔗 Connect with Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sd672483@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasspandan2106@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/spandan-das-b7b5a431b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
