@@ -43,8 +43,8 @@
 
 ---
 
-### Budges
-![Badge](C:\Users\Spandan DAs\Downloads\WhatsApp Image 2025-10-16 at 20.52.08_81418d01.jpg)
+### Badges
+![Badges](https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.08_81418d01.jpg?raw=true)
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
