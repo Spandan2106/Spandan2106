@@ -43,6 +43,9 @@
 
 ---
 
+### Budges
+![Badge](C:\Users\Spandan DAs\Downloads\WhatsApp Image 2025-10-16 at 20.52.08_81418d01.jpg)
+
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
