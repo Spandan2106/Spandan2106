@@ -45,6 +45,7 @@
 
 ### Badges
 ![Badges](https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.08_81418d01.jpg?raw=true)
+![Badges](https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.09_f3a39971.jpg?raw=true)
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
