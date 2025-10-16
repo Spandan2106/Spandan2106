@@ -20,7 +20,7 @@
 ---
   
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
-- 📫 How to reach me: dasspandan2106@gmail.com
+- 📫 How to reach me: sd672483@gmail.com
 
 ---
 
@@ -44,6 +44,5 @@
 ---
 
 ### 🔗 Connect with Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: sd672483@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
