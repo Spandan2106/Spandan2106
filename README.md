@@ -48,6 +48,7 @@
 ![Badges](https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.08_81418d01.jpg?raw=true)
 ![Badges](https://github.com/Spandan2106/Spandan2106/blob/4fade4e39509b870afafc89b02eba242c30ba518/lvl1-astronaut.webp) 
 ![Badges](https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.09_f3a39971.jpg?raw=true)
+![Badges](https://github.com/Spandan2106/Spandan2106/blob/45cb4c75b7390c4fe1278fce86ab635549fe7010/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D.webp) 
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
