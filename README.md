@@ -12,7 +12,7 @@
 <p align="center">
           <br><img src="https://komarev.com/ghpvc/?username=Spandan2106&label=Profile%20views&color=0e75b6&style=flat" alt="Spandan2106" />
         </p>
-<td align="center" valign="center" width="300">
+<p align="center" valign="center" width="300">
       <!-- Coding GIF -->
       <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 
@@ -91,8 +91,10 @@
 <a href="https://github.com/sponsors/Spandan2106" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
 </a>
-<p align="left">
-  <img src="" width="100" height="100" alt="Badge1"/>
+<p align="center">
+  <img src="githubgif.gif" width="200" height="200" alt="git"/>
+
+
 
 
 
