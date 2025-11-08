@@ -70,7 +70,7 @@
   <img src="https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.08_81418d01.jpg?raw=true" width="100" height="100" alt="Badge1"/>
   <img src="https://github.com/Spandan2106/Spandan2106/blob/4fade4e39509b870afafc89b02eba242c30ba518/lvl1-astronaut.webp" width="100" height="100" alt="Badge2"/>
   <img src="https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.09_f3a39971.jpg?raw=true" width="100" height="100" alt="Badge3"/>
-  <img src="" width="100" height="100" alt="Badge4"/>
+  <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" width="100" height="100" alt="Badge4"/>
 </p>
 
 ### 🔗 Connect with Me:
