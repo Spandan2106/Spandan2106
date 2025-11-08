@@ -1,8 +1,17 @@
+
+[![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
+<h2></h2>
 # 👋 Hi, I'm Spandan Das
 
 🎯 Passionate Software Developer |competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
 
 ---
+<p align="center">
+          <br><img src="https://komarev.com/ghpvc/?username=Spandan2106&label=Profile%20views&color=0e75b6&style=flat" alt="Spandan2106" />
+        </p>
+<td align="center" valign="center" width="300">
+      <!-- Coding GIF -->
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 
 ### 💫 About Me:
 - 🌱 I’m currently learning MERN Stack Web Development  
@@ -53,3 +62,21 @@
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=react-dark&hide_border=true&area=true)
+
+<h3 align="center">📊 Stats of Obsession</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spandan2106&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spandan2106&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spandan2106&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spandan2106&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spandan2106&theme=aura&utcOffset=8)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spandan2106&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="Spandan2106" /></p>
+</p>
+<a href="https://github.com/sponsors/Spandan2106" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
+</a>
+
+
+
