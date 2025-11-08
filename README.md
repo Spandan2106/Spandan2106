@@ -1,11 +1,14 @@
 
 [![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
 <h2></h2>
-# 👋 Hi, I'm Spandan Das
+<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
+          
+### 👋 Hi, I'm Spandan Das
 
 🎯 Passionate Software Developer |competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
 
 ---
+
 <p align="center">
           <br><img src="https://komarev.com/ghpvc/?username=Spandan2106&label=Profile%20views&color=0e75b6&style=flat" alt="Spandan2106" />
         </p>
@@ -28,6 +31,11 @@
 ### Leetcode profile:
 - https://share.google/PesnJOWs2LgbNlDdc
 ---
+
+### LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Spandan_Das?theme=dark&font=montserrat&radius=6)
+
   
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
@@ -50,6 +58,11 @@
 ### 📊 GitHub Stats:
 ![Spandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spandan2106&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=radical)
+
+---
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Spandan2106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
