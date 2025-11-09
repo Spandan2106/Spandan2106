@@ -27,6 +27,8 @@
 - 5. The link of my portfolio website(begginer level) https://spandanportfolio20251.netlify.app/
 - 6. The link of my google clone website is https://googleclone-by-spandan.netlify.app/
 - 7. The link of E com website is https://ecommercewesell.netlify.app/
+- 8. The link of my counter website :https://counter-by-js.vercel.app/
+- 9. The link of my created todo list : https://to-dolist-phi-lovat.vercel.app/
 
 ### Leetcode profile:
 - https://share.google/PesnJOWs2LgbNlDdc
