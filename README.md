@@ -38,7 +38,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Spandan_Das?theme=dark&font=montserrat&radius=6)
 
-  
+---  
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
 - 📫 How to reach me: dasspandan2106@gmail.com
