@@ -56,6 +56,23 @@
   
 ---
 
+### CodeForces profile:
+- https://codeforces.com/profile/Spandan2025 
+  
+---
+
+## Codeforces Stats
+          
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Spandan2025)
+
+---
+
+## Codeforces Badge:
+
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Spandan2025)
+
+---
+
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
 - 📫 How to reach me: dasspandan2106@gmail.com
