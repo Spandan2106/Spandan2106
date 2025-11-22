@@ -5,7 +5,7 @@
           
 ### 👋 Hi, I'm Spandan Das
 
-🎯 Passionate Software Developer |competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
+🎯 Passionate Software Developer | competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
 
 ---
 
@@ -41,6 +41,7 @@
   
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
+- 📫 How to reach me: dasspandan2106@gmail.com
 
 ---
 
@@ -81,7 +82,7 @@
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://spandanportfolio20251.netlify.app/)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=react-dark&hide_border=true&area=true)
 
