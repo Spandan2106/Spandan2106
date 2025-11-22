@@ -56,11 +56,6 @@
   
 ---
 
-### CodeChef Stats
-
-![CodeChef Stats](https://your-vercel-app.vercel.app/span_dan_06?v=1)
-
---- 
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
 - 📫 How to reach me: dasspandan2106@gmail.com
