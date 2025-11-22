@@ -39,6 +39,17 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Spandan_Das?theme=dark&font=montserrat&radius=6)
 
 ---  
+
+### GeeksForGeeks profile:
+- https://www.geeksforgeeks.org/user/spandan2024tmsl/
+  
+---
+
+### GeeksForGeeks Stats
+
+[![Spandans's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=spandan2024tmsl?front=montserrat&radius=100)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
+--- 
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
 - 📫 How to reach me: dasspandan2106@gmail.com
