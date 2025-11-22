@@ -50,6 +50,17 @@
 [![Spandans's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=spandan2024tmsl?front=montserrat&radius=100)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 --- 
+
+### CodeChef profile:
+- https://www.codechef.com/users/span_dan_06
+  
+---
+
+### CodeChef Stats
+
+![CodeChef Stats](https://your-vercel-app.vercel.app/span_dan_06?v=1)
+
+--- 
 - 🧑‍🎓 Student | Learner | Code Enthusiast  
 - 📫 How to reach me: sd672483@gmail.com
 - 📫 How to reach me: dasspandan2106@gmail.com
