@@ -1,7 +1,26 @@
 
 [![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
 <h2></h2>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=500&color=FF5733&width=435&lines=Welcome+to+My+Coding+World!;Let's+Build+Something+Awesome;Always+a+learner+Progress+is+future;Coding+is+future+**+Build+own+future;Love+to+code+*****+Build+to+code" alt="Gradient Text Animation" />
+</h2>
+
+---
+
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
+
+---
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Spandan;Coding+Enthusiast;Tech+Enthusiast;Contest+Problem+Solver;Portfolio+Builder" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
           
 ### 👋 Hi, I'm Spandan Das
 
@@ -138,8 +157,23 @@ https://codolio.com/profile/Spandan2106
 <a href="https://github.com/sponsors/Spandan2106" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
 </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C%20Programming-Proficient-green?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Tech-Ethusiastic-red?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Compititive-Coder-sky?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+          <img src="https://img.shields.io/badge/%20Python3-orange?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+          <img src="https://img.shields.io/badge/%20Vercel-green?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+          <img src="https://img.shields.io/badge/%20Netlify-orange?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+          <img src="https://img.shields.io/badge/%20Github-orange?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="githubgif.gif" width="200" height="200" alt="git"/>
+
+  
+
 
 
 
