@@ -67,7 +67,7 @@
 
 ### GeeksForGeeks Stats
 
-![GFG Stats](https://geeks-for-geeks-stats-card-snowy.vercel.app/api?username=spandan2024tmsl)
+![GFG Stats](https://gfg-stat.vercel.app/api?user=spandan2024tmsl)
 
 --- 
 
