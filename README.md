@@ -67,7 +67,7 @@
 
 ### GeeksForGeeks Stats
 
-[![Spandan's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=spandan2024tmsl)](https://www.geeksforgeeks.org/profile/spandan2024tmsl)
+![GFG Stats](https://geeks-for-geeks-stats-card-snowy.vercel.app/api?username=spandan2024tmsl)
 
 --- 
 
