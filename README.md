@@ -65,12 +65,6 @@
   
 ---
 
-### GeeksForGeeks Stats
-
-[![GFG Badge](https://gfg-badge.vercel.app/api?username=spandan2024tmsl)](https://www.geeksforgeeks.org/user/spandan2024tmsl)
-
---- 
-
 ### CodeChef profile:
 - https://www.codechef.com/users/span_dan_06
   
