@@ -67,7 +67,7 @@
 
 ### GeeksForGeeks Stats
 
-[![Spandans's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=spandan2024tmsl?front=montserrat&radius=100)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Spandan's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=spandan2024tmsl)](https://www.geeksforgeeks.org/profile/spandan2024tmsl)
 
 --- 
 
