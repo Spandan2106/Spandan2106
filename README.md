@@ -40,14 +40,13 @@
 - 👨‍💻 All of my projects are available are:
 - All my created projects. Beginner 🔰 level projects. ✨
 1. The link for my html,css project on calculator is https://procalculaor.netlify.app/
-2. The link for my Tmsl survey form is https://tmslsurveyform.netlify.app/
-3. The link for my project on clone website of GFG is https://geeksclone.netlify.app/
-4. The link of my created weather website is https://weatherappspandan.netlify.app/
-5. The link of my portfolio website(begginer level) https://spandanportfolio20251.netlify.app/
-6. The link of my google clone website is https://googleclone-by-spandan.netlify.app/
-7. The link of E com website is https://ecommercewesell.netlify.app/
-8. The link of my counter website :https://counter-by-js.vercel.app/
-9. The link of my created todo list : https://to-dolist-phi-lovat.vercel.app/
+2. The link for my project on clone website of GFG is https://geeksclone.netlify.app/
+3. The link of my created weather website is https://weatherappspandan.netlify.app/
+4. The link of my portfolio website(begginer level) https://spandanportfolio20251.netlify.app/
+5. The link of my google clone website is https://googleclone-by-spandan.netlify.app/
+6. The link of E com website is https://ecommercewesell.netlify.app/
+7. The link of my counter website :https://counter-by-js.vercel.app/
+8. The link of my created todo list : https://to-dolist-phi-lovat.vercel.app/
 
 ---
 ### Leetcode profile:
