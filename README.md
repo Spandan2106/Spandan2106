@@ -109,14 +109,12 @@ https://codolio.com/profile/Spandan2106
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Spandan2106&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spandan2106&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=tokyonight)
+
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/Spandan2106/Spandan2106/output/github-contribution-grid-snake.svg)
-
----
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Spandan2106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -154,8 +152,6 @@ https://codolio.com/profile/Spandan2106
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spandan2106&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spandan2106&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spandan2106&theme=aura&utcOffset=8)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spandan2106&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="Spandan2106" /></p>
-</p>
 
 ---
 
@@ -193,7 +189,7 @@ https://codolio.com/profile/Spandan2106
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
       </a>
       <br>c
     </td>
@@ -272,9 +268,6 @@ https://codolio.com/profile/Spandan2106
       <br>Vue
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/LaTEX-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>LaTEX
     </td>
  </tr>
