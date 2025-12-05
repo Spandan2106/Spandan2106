@@ -108,13 +108,6 @@ https://codolio.com/profile/Spandan2106
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-stats-15b6.vercel.app/api/stats?username=Spandan2106)
-![Top Languages](https://github-stats-15b6.vercel.app/api/langs?username=Spandan2106)
-
-
----
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Spandan2106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
