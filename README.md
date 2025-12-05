@@ -109,8 +109,8 @@ https://codolio.com/profile/Spandan2106
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spandan2106&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-15b6.vercel.app/api/stats?username=Spandan2106)
+![Top Languages](https://github-stats-15b6.vercel.app/api/langs?username=Spandan2106)
 
 
 ---
