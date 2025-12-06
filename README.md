@@ -131,7 +131,10 @@ https://codolio.com/profile/Spandan2106
 [![trophy](https://github-profile-trophy.vercel.app/?username=Spandan2106)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+### Github Stats Snake:
+![Snake](https://github.com/Spandan2106/Spandan2106/blob/d07d89ebb57d05e1b7ce676bbc1c6b322224b089/snake-light.svg)
 
+---
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://spandanportfolio20251.netlify.app/)
