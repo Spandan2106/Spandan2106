@@ -1,3 +1,7 @@
+<!--     -->
+![Matrix SVG](./assets/matrix.svg)
+<!--     -->
+---
 
 [![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
 <h2></h2>
