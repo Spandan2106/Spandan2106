@@ -25,6 +25,9 @@
 🎯 Passionate Software Developer | competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
 
 ---
+<p align="center">
+  <img src="/header_.png" width="100%" />
+</p>
 
 <p align="center">
           <br><img src="https://komarev.com/ghpvc/?username=Spandan2106&label=Profile%20views&color=0e75b6&style=flat" alt="Spandan2106" />
