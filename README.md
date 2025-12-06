@@ -1,5 +1,5 @@
 <!--     -->
-![Matrix SVG](./assets/matrix.svg)
+![Matrix SVG](https://github.com/Spandan2106/Spandan2106/blob/0cb5d6f5b4bf24f4113dab7a4a86eec73ea36221/matrix.svg)
 <!--     -->
 ---
 
