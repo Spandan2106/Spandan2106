@@ -128,7 +128,6 @@ https://codolio.com/profile/Spandan2106
   <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" width="100" height="100" alt="Badge4"/>
 <img src = "WhatsApp Image 2025-11-08 at 23.00.33_0f6f4fa6.jpg" width = "100" height = "100">
 <img src = "WhatsApp Image 2025-11-08 at 23.00.33_46a04c9e.jpg" width = "100" height = "100">
-<img src = "WhatsApp Image 2025-11-08 at 23.00.34_2e1eaffc.jpg" width = "500" height = "200">
 </p>
 
 ---
