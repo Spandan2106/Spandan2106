@@ -132,11 +132,6 @@ https://codolio.com/profile/Spandan2106
 
 ---
 
-### Trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Spandan2106&no-bg=true)
-
----
 ### Github Stats Snake:
 ![Snake](https://github.com/Spandan2106/Spandan2106/blob/d07d89ebb57d05e1b7ce676bbc1c6b322224b089/snake-light.svg)
 
