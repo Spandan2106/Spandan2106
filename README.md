@@ -49,6 +49,7 @@
 7. The link of my counter website : https://counter-by-js.vercel.app/
 8. The link of my created todo list : https://to-dolist-phi-lovat.vercel.app/
 9. The link of my created medical form by React-JS: https://clinquant-starlight-31882b.netlify.app/
+10. The link of my created First Typescript project : https://typescript-react-app-2025.netlify.app/
 
 ---
 ### Leetcode profile:
