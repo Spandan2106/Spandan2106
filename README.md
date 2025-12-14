@@ -50,6 +50,7 @@
 8. The link of my created todo list : https://to-dolist-phi-lovat.vercel.app/
 9. The link of my created medical form by React-JS: https://clinquant-starlight-31882b.netlify.app/
 10. The link of my created First Typescript project : https://typescript-react-app-2025.netlify.app/
+11. The link of my Quiz-app by Typescript and React : https://quiz-app-react-2025.netlify.app/
 
 ---
 ### Leetcode profile:
