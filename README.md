@@ -52,6 +52,7 @@
 10. The link of my created First Typescript project : https://typescript-react-app-2025.netlify.app/
 11. The link of my Quiz-app by Typescript and React : https://quiz-app-react-2025.netlify.app/
 12. The link of my created Hologram project : https://future-idea-2025.vercel.app/
+13. The link of my created Social-media-dashboard project : https://spandan-social-media-2025.netlify.app/
 
 ---
 ### Leetcode profile:
