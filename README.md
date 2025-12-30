@@ -54,7 +54,8 @@
 12. The link of my created Hologram project : https://future-idea-2025.vercel.app/
 13. The link of my created Social-media-dashboard project : https://spandan-social-media-2025.netlify.app/
 14. The link of My Created Full-Stack Project(LibraryManagement System) : https://library-management-system-dwu0.onrender.com/
-15. The link of my created MERN Ai chat bot Jarves link 🔗 :https://ai-chatbot-lrjc.onrender.com/
+15. The link of my created MERN Ai chat bot Jarves link 🔗 : https://ai-chatbot-lrjc.onrender.com/
+16. The link of my created Diabetis Detection Model : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
 
 ---
 ### Leetcode profile:
