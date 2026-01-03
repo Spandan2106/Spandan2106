@@ -56,6 +56,7 @@
 14. The link of My Created Full-Stack Project(LibraryManagement System) : https://library-management-system-dwu0.onrender.com/
 15. The link of my created MERN Ai chat bot Jarves link 🔗 : https://ai-chatbot-lrjc.onrender.com/
 16. The link of my created Diabetis Detection Model : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
+17. The link of my created weather website by NEXT.js : https://weather2026.vercel.app/
 
 ---
 ### Leetcode profile:
