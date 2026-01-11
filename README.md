@@ -22,7 +22,11 @@
           
 ### 👋 Hi, I'm Spandan Das
 
-🎯 Passionate Software Developer | competitive coder | 💻 Student | 🌱 Currently learning *MERN Stack Web Development*
+Backend- Learning Full- Stack Developer | Competative Coder<BR>
+B.Tech IT (2028)<BR>
+C | Python | Node.js | Express | Next.js| HTML| CSS | Javascript(ES6+) | React.js | Typescript |  MongoDB | REST APIs<BR>
+Building Full-Stack Web-applications on real -world applications , Building Backend-heavy API projects, building AI enable web- applications.<BR>
+Open to SDE Itern roles.
 
 ---
 <p align="center">
@@ -35,11 +39,49 @@
 <p align="center" valign="center" width="300">
       <!-- Coding GIF -->
       <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+  
+---
 
-### 💫 About Me:
-- 🌱 I’m currently learning MERN Stack Web Development  
-- 👨‍💻 All of my projects are available are:
-- All my created projects. Beginner 🔰 level projects. ✨
+### FULL-STACK PROJECTS
+
+#  LIBRARY MANAGEMENT SYSTEM
+  A web application on the Library - management .<BR>
+  Tech-stack : HTML , CSS , REACT.JS , EXPRESS.JS , NODE.JS , TYPESCRIPT, JAVASCRIPT.<BR>
+  LIVE LINK :  https://library-management-system-dwu0.onrender.com/
+  
+# HOLOGRAM PROJECT
+  A hologram project controled by hand jesture, voice -controlling system .<BR>
+  Tech- stack: HTML, CSS , REACT.JS , EXPRESS.JS , JAVASCRIPT.<BR>
+  LIVE LINK: https://future-idea-2025.vercel.app/
+
+# MERN AI CHATBOT(JARVES)
+  A ai chatbot powered by GEMENI API KEY <BR>
+  Tech-stack : HTML, CSS, REACT.JS , NEXT.JS , EXPRESS.JS, TYPESCRIPT.<BR>
+  LIVE LINK :  https://ai-chatbot-lrjc.onrender.com/
+
+# WEATHER DASHBORD
+  A weather dashbourd by MERN<BR>
+  Tech- stack: HTML , CSS, REACT,JS, NEXT.JS , JAVASCRIPT.<BR>
+  LINE LINK: https://weather2026.vercel.app/
+
+# E-COMMERCE WEBSITE
+  A totally functional e-com application<BR>
+  Tech-Stack : Client(HTML,CSS,RECAT.JS,JAVASCRIPT) hosted by VERCEL ,  Server(EXPRESS.JS,NODE.JS) hosted by RENDER , Database(MONGODB)<BR>
+  LIVE LINK: https://wesellcom.vercel.app/
+
+---
+
+### PYTHON - STREAMLIT PROJECT 
+
+# DIABETIS PREDICTION WEBSITE(MODEL)
+  A totally functional diabetics prodiction model<BR>
+  Tech- stack: PYTHON3 , STREAMLIT( For hosting)<BR>
+  LIVE LINK : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
+
+---
+
+### MY OTHER PROJECTS:
+
 1. The link for my html,css project on calculator is https://procalculaor.netlify.app/
 2. The link for my project on clone website of GFG is https://geeksclone.netlify.app/
 3. The link of my created weather website is https://weatherappspandan.netlify.app/
@@ -51,15 +93,10 @@
 9. The link of my created medical form by React-JS: https://clinquant-starlight-31882b.netlify.app/
 10. The link of my created First Typescript project : https://typescript-react-app-2025.netlify.app/
 11. The link of my Quiz-app by Typescript and React : https://quiz-app-react-2025.netlify.app/
-12. The link of my created Hologram project : https://future-idea-2025.vercel.app/
 13. The link of my created Social-media-dashboard project : https://spandan-social-media-2025.netlify.app/
-14. The link of My Created Full-Stack Project(LibraryManagement System) : https://library-management-system-dwu0.onrender.com/
-15. The link of my created MERN Ai chat bot Jarves link 🔗 : https://ai-chatbot-lrjc.onrender.com/
-16. The link of my created Diabetis Detection Model : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
-17. The link of my created weather website by NEXT.js : https://weather2026.vercel.app/
-
 ---
 ### Leetcode profile:
+
 - https://share.google/PesnJOWs2LgbNlDdc
 ---
 
@@ -97,6 +134,7 @@
 ---
 
 ## Codolio Profile:
+
 https://codolio.com/profile/Spandan2106
 
 ---
@@ -120,12 +158,6 @@ https://codolio.com/profile/Spandan2106
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Spandan2106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 ### Badges
