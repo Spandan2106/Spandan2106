@@ -44,6 +44,16 @@ Open to SDE Itern roles.
 
 ### FULL-STACK PROJECTS
 
+# E-COMMERCE WEBSITE
+  A totally functional e-com application<BR>
+  Tech-Stack : Client(HTML,CSS,RECAT.JS,JAVASCRIPT) hosted by VERCEL ,  Server(EXPRESS.JS,NODE.JS) hosted by RENDER , Database(MONGODB)<BR>
+  LIVE LINK: https://wesellcom.vercel.app/
+
+# ONLINE CHAT-APP( CHAT_Z.com)
+  A totally functional online ,real-time sending chat application.
+  Tech-Stack: Client(HTML,CSS.REACT.JS,JAVASCRIPT) hosted by VERCEL , Server(EXPRESS.JS,NODE.JS) hosted by RENDER, Database(MongoDB)<br>
+  LIVE LINK: https://chat-z.vercel.app/
+
 #  LIBRARY MANAGEMENT SYSTEM
   A web application on the Library - management .<BR>
   Tech-stack : HTML , CSS , REACT.JS , EXPRESS.JS , NODE.JS , TYPESCRIPT, JAVASCRIPT.<BR>
@@ -63,11 +73,6 @@ Open to SDE Itern roles.
   A weather dashbourd by MERN<BR>
   Tech- stack: HTML , CSS, REACT,JS, NEXT.JS , JAVASCRIPT.<BR>
   LINE LINK: https://weather2026.vercel.app/
-
-# E-COMMERCE WEBSITE
-  A totally functional e-com application<BR>
-  Tech-Stack : Client(HTML,CSS,RECAT.JS,JAVASCRIPT) hosted by VERCEL ,  Server(EXPRESS.JS,NODE.JS) hosted by RENDER , Database(MONGODB)<BR>
-  LIVE LINK: https://wesellcom.vercel.app/
 
 ---
 
