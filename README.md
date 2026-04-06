@@ -3,8 +3,7 @@
 <!--     -->
 ---
 
-[![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
-<h2></h2>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=500&color=FF5733&width=435&lines=Welcome+to+My+Coding+World!;Let's+Build+Something+Awesome;Always+a+learner+Progress+is+future;Coding+is+future+**+Build+own+future;Love+to+code+*****+Build+to+code" alt="Gradient Text Animation" />
@@ -14,7 +13,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Spandan;Coding+Enthusiast;Tech+Enthusiast;Contest+Problem+Solver;Portfolio+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Spandan;SDE+Backend+AIML;Competitive+Coder;Scaleable+System+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -82,6 +81,21 @@ Open to SDE Itern roles.
   A totally functional diabetics prodiction model<BR>
   Tech- stack: PYTHON3 , STREAMLIT( For hosting)<BR>
   LIVE LINK : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
+
+---
+
+### BUILD BY GOOGLE-AI-STUDIO-TOOLS
+
+# OMINICONVERT
+A total conversion tool for language to language, time-zone, currency,unites( length,bredth,area etc), calculator(simple,scientific,programmer),graph.<BR>
+Tech- Stack : Typescript, HTML, REACT, CSS.<BR>
+LIVE LINK : https://omniconveter.vercel.app/
+
+# COA VISUALIZER
+COA LAB is a comprehensive educational visualization tool designed to help students and engineers understand the core concepts of Computer Organization and Architecture. It provides interactive visualizations for complex arithmetic algorithms, number system conversions, and binary logic.<BR>
+With Booths, Restoring, Non- restoring, IEEE conversion, All number system arithmetic, Complements.<BR>
+Tech- Stack: Typescript, HTML, REACT, CSS.<BR>
+LIVE LINK: https://coa-visualizer-2026.vercel.app/
 
 ---
 
