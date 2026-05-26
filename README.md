@@ -73,11 +73,22 @@ Open to SDE Itern roles.
 # WEATHER DASHBORD
   A weather dashbourd by MERN<BR>
   Tech- stack: HTML , CSS, REACT,JS, NEXT.JS , JAVASCRIPT.<BR>
-  LINE LINK: https://weather2026.vercel.app/
+  LIVE LINK: https://weather2026.vercel.app/
+
+---
+
+### BLOCKCHAIN-PROJECT
+
+# Metropolis EVoting 2026: Sovereign Voting Protocol
+
+  A secure blockchain implemented voting application<br>
+  Tech stack:  HTML, CSS, TYPESCRIPT, NODE.JS, EXPRESS.JS, SHA-256(BLOCKCHAIN)<BR>
+  LIVE LINK:  https://metropolis-evoting-2026.onrender.com
 
 ---
 
 ### PYTHON - STREAMLIT PROJECT 
+
 
 # DIABETIS PREDICTION WEBSITE(MODEL)
   A totally functional diabetics prodiction model<BR>
