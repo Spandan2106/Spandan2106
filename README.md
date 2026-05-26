@@ -91,9 +91,15 @@ Open to SDE Itern roles.
 
 
 # DIABETIS PREDICTION WEBSITE(MODEL)
-  A totally functional diabetics prodiction model<BR>
+  A totally functional diabetics prediction model<BR>
   Tech- stack: PYTHON3 , STREAMLIT( For hosting)<BR>
   LIVE LINK : https://diabetes-predictionmodel-spandan-2025.streamlit.app/
+
+# Heart Disease Prediction(MODEL)
+  A totally functional diabetits prediction model<br>
+  Tech-Stack : PYTHON3, STREAMLIT(for hosting)<br>
+  LIVE LINK: https://heart-disease-prediction-model-2026.streamlit.app/
+
 
 ---
 
