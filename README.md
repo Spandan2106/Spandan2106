@@ -27,7 +27,7 @@ Backend- Learning Full- Stack Developer | Competative Coder<BR>
 B.Tech IT (2028)<BR>
 C | Python | Node.js | Express | Next.js| HTML| CSS | Javascript(ES6+) | React.js | Typescript |  MongoDB | REST APIs<BR>
 Building Full-Stack Web-applications on real -world applications , Building Backend-heavy API projects, building AI enable web- applications.<BR>
-Open to SDE Itern roles.
+Open to SDE Itern | Backend Intern | Full-Stack Intern roles.
 
 ---
 <p align="center">
@@ -207,7 +207,7 @@ https://codolio.com/profile/Spandan2106
 ---
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-das-b7b5a431b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://spandanportfolio20251.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://spandan-das.onrender.com/)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=react-dark&hide_border=true&area=true)
 
