@@ -118,6 +118,7 @@ LIVE LINK: https://coa-visualizer-2026.vercel.app/
 
 ---
 
+
 ### MY OTHER PROJECTS:
 
 1. The link for my html,css project on calculator is https://procalculaor.netlify.app/
