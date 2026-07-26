@@ -23,9 +23,9 @@
           
 ### 👋 Hi, I'm Spandan Das
 
-Backend- Learning Full- Stack Developer | Competative Coder<BR>
-B.Tech IT (2028)<BR>
-C | Python | Node.js | Express | Next.js| HTML| CSS | Javascript(ES6+) | React.js | Typescript |  MongoDB | REST APIs<BR>
+Backend Developer | Full- Stack Developer | Software Developer<BR>
+B.Tech IT (2024-2028)<BR>
+C | Python | Java | Node.js | Express | Next.js | HTML| CSS | Javascript(ES6+) | React.js | Typescript |  MongoDB | REST APIs<BR>
 Building Full-Stack Web-applications on real -world applications , Building Backend-heavy API projects, building AI enable web- applications.<BR>
 Open to SDE Itern | Backend Intern | Full-Stack Intern roles.
 
