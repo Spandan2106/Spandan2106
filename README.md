@@ -91,6 +91,7 @@ Open to SDE Itern | Backend Intern | Full-Stack Intern roles.
 ### PYTHON - STREAMLIT PROJECT 
 
 
+
 # DIABETIS PREDICTION WEBSITE(MODEL)
   A totally functional diabetics prediction model<BR>
   Tech- stack: PYTHON3 , STREAMLIT( For hosting)<BR>
