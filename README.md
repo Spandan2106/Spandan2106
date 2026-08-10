@@ -1,26 +1,11 @@
-<!--     -->
-![Matrix SVG](https://github.com/Spandan2106/Spandan2106/blob/0cb5d6f5b4bf24f4113dab7a4a86eec73ea36221/matrix.svg)
-<!--     -->
 ---
+   <p align="center" valign="center" width="300">
+      <!-- Coding GIF -->
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 
-
-
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=500&color=FF5733&width=435&lines=Welcome+to+My+Coding+World!;Let's+Build+Something+Awesome;Always+a+learner+Progress+is+future;Coding+is+future+**+Build+own+future;Love+to+code+*****+Build+to+code" alt="Gradient Text Animation" />
-</h2>
-
-<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+I'm+Spandan;SDE+Backend+AIML;Competitive+Coder;Scaleable+System+Builder" alt="Typing SVG" />
-  </a>
-</h1>
-
+      
 ---
-
-          
+---
 ### 👋 Hi, I'm Spandan Das
 
 Backend Developer | Full- Stack Developer | Software Developer<BR>
@@ -37,12 +22,6 @@ Open to SDE Itern | Backend Intern | Full-Stack Intern roles.
 <p align="center">
           <br><img src="https://komarev.com/ghpvc/?username=Spandan2106&label=Profile%20views&color=0e75b6&style=flat" alt="Spandan2106" />
         </p>
-<p align="center" valign="center" width="300">
-      <!-- Coding GIF -->
-      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
-  
----
-
 
 ### FULL-STACK PROJECTS
 
