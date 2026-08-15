@@ -191,14 +191,6 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spandan2106&theme=aura&hide_border=true" width="60%"/>
-</div>
-
----
-
 ### 🔗 GitHub Snake:
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=react-dark&hide_border=true&area=true)
