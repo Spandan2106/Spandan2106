@@ -221,8 +221,8 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_%7C_Rating_1660-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Spandan_Das/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-600%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-100%2B_%7C_Rating_1264(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025)
-[![CodeChef](https://img.shields.io/badge/CodeChef-200%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06)
+[![Codeforces](https://img.shields.io/badge/Codeforces-100%2B_%7C_Pupil_(1264)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_300%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483)
 [![Codolio](https://img.shields.io/badge/Codolio-Unified_Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
