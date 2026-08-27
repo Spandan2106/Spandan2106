@@ -192,12 +192,6 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 
 ---
 
-### 🔗 GitHub Snake:
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=react-dark&hide_border=true&area=true)
-
----
-
 <h3 align="center">📊 Stats of Obsession</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spandan2106&theme=aura)
