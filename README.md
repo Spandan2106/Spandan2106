@@ -22,6 +22,7 @@
 
 <br/>
 
+
 <a href="https://github.com/Spandan2106/Spandan2106/raw/main/Spandan_Das_Resume.pdf">
   <img src="https://img.shields.io/badge/⬇️_Download_Resume-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
