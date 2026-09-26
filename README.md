@@ -9,11 +9,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Spandan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Spandan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%7C%20Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+TypeScript;2000%2B+DSA+Problems+Solved;B.Tech+IT+%40+TMSL+%2724-%2728+%7C+YGPA+9.00;Open+to+SDE+%2F+Backend+%2F+Full-Stack+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Spandan+Das+%7C+B.Tech+IT+%40+TMSL+%2724-%2728;2600%2B+DSA+Questions+Solved;Open+to+SDE+%2F+Backend+%2F+DevOps+%2F+Cloud+Roles;Interested+in+AI+%2F+ML+%2F+Cloud+%2F+DevOps;Backend+Development+%7C+AI+Integration+%7C+Full-Stack+Development" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
@@ -40,9 +41,9 @@
 
 ### 👋 About Me
 
-I'm a **B.Tech IT student at Techno Main Salt Lake, Kolkata (2024–2028)**, building scalable MERN-stack applications, RESTful APIs, and real-time systems with React.js, Node.js, Express.js, MongoDB, and TypeScript. I've architected and deployed 10+ production-ready web apps with JWT auth, Socket.io, and role-based access control — and solved **2000+ DSA problems** along the way.
+I'm a **B.Tech Information Technology student at Techno Main Salt Lake, Kolkata (2024–2028)**, focused on building reliable, scalable backend systems and cloud-native infrastructure. My core interests lie in designing RESTful APIs, distributed and real-time systems, and automated deployment pipelines — using Node.js, Express.js, MongoDB, and TypeScript, backed by hands-on exposure to AWS, containerization, and CI/CD workflows. I've architected and deployed 10+ production-grade systems with JWT-based authentication, role-based access control, and real-time data pipelines — and solved **2600+ DSA problems** to build a strong foundation in algorithms, systems thinking, and problem-solving.
 
-🎯 **Currently open to:** SDE Intern · Backend Developer Intern · Full-Stack Developer Intern
+🎯 **Currently open to:** SDE Roles · Backend Developer Roles · DevOps Engineer Roles · Cloud Developer Roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
@@ -146,6 +147,10 @@ Book cataloging, user management, and borrowing-history tracking.
 | Weather Dashboard | Live weather dashboard with real-time, location-based forecasts | React, Next.js | [Demo](https://weather2026.vercel.app/) |
 | Diabetes Prediction Model | Predicts diabetes risk from patient data | Python, Streamlit | [Demo](https://diabetes-predictionmodel-spandan-2025.streamlit.app/) |
 | Heart Disease Prediction Model | Predicts heart disease risk from patient data | Python, Streamlit | [Demo](https://heart-disease-prediction-model-2026.streamlit.app/) |
+| Global Crisis Intelligence | Global intelligence terminal with interactive maps, 3D Earth visualization, live geopolitical news, conflict tracking, market/economic data, and AI-assisted analysis from 1950 onward | React, Node.js, Geospatial APIs, Gemini AI | [Demo](https://global-crisis-intelligence.vercel.app/) |
+| Online IDE | Browser-based multi-language IDE (C, C++, Java, Python) with live SSE terminal streaming, interactive stdin, split-pane workspace, and PDF report export | React, Node.js, SSE, Docker | [Demo](https://online-ide-spd2106.onrender.com/) |
+| AegisID | Blockchain-backed platform for decentralized identity, verifiable credentials, and role-based access control — built as a prototype for SIH 2026 (PS SIH26125) | Java, SpringBoot, Blockchain, Node.js, React | [Repo](https://github.com/Spandan2106/AegisID) |
+| Sudoku Solver | Fast 9x9 Sudoku solver demonstrating backtracking and recursive problem-solving | JS, HTML, CSS | [Demo](https://coruscating-dragon-1cf2d8.netlify.app/) |
 
 </details>
 
@@ -153,15 +158,17 @@ Book cataloging, user management, and borrowing-history tracking.
 <summary><b>🌱 Practice & Early Projects</b></summary>
 <br/>
 
-- [Calculator](https://procalculaor.netlify.app/) — HTML/CSS/JS
-- [GFG Clone](https://geeksclone.netlify.app/)
-- [Google Clone](https://googleclone-by-spandan.netlify.app/)
-- [Portfolio (v1)](https://spandanportfolio20251.netlify.app/)
-- [Todo List](https://to-dolist-phi-lovat.vercel.app/)
-- [Counter App](https://counter-by-js.vercel.app/)
-- [Medical Form (React)](https://clinquant-starlight-31882b.netlify.app/)
-- [Quiz App (TS + React)](https://quiz-app-react-2025.netlify.app/)
-- [Social Media Dashboard](https://spandan-social-media-2025.netlify.app/)
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| Calculator | Basic arithmetic calculator built to practice DOM manipulation and event handling | HTML, CSS, JS | [Demo](https://procalculaor.netlify.app/) |
+| GFG Clone | Front-end clone of the GeeksforGeeks homepage layout for practicing responsive design | HTML, CSS, JS | [Demo](https://geeksclone.netlify.app/) |
+| Google Clone | Static clone of the Google search homepage for practicing pixel-accurate layout | HTML, CSS, JS | [Demo](https://googleclone-by-spandan.netlify.app/) |
+| Portfolio (v1) | First iteration of a personal portfolio site, later rebuilt into the current version | HTML, CSS, JS | [Demo](https://spandanportfolio20251.netlify.app/) |
+| Todo List | Simple task manager with add/edit/delete functionality and local state handling | React | [Demo](https://to-dolist-phi-lovat.vercel.app/) |
+| Counter App | Minimal counter app used to practice state management fundamentals | JavaScript | [Demo](https://counter-by-js.vercel.app/) |
+| Medical Form (React) | Multi-field patient intake form with validation, built to practice controlled components | React | [Demo](https://clinquant-starlight-31882b.netlify.app/) |
+| Quiz App (TS + React) | Timed multiple-choice quiz app with score tracking, built with typed components | TypeScript, React | [Demo](https://quiz-app-react-2025.netlify.app/) |
+| Social Media Dashboard | UI dashboard mockup for a social media analytics panel, focused on layout and charts | React | [Demo](https://spandan-social-media-2025.netlify.app/) |
 
 </details>
 
@@ -169,7 +176,9 @@ Book cataloging, user management, and borrowing-history tracking.
 
 ### 🎓 Academics
 
-**B.Tech in Information Technology** — Techno Main Salt Lake, Kolkata &nbsp;|&nbsp; Aug 2024 – May 2028 &nbsp;|&nbsp; **YGPA: 9.00**
+**B.Tech in Information Technology** — Techno Main Salt Lake, Kolkata &nbsp;|&nbsp; Aug 2024 – May 2028 &nbsp;|&nbsp; **CGPA: 9.00**
+<br/>**1st year ygpa : 9.35**
+<br/>**2nd year ygpa : 8.60**
 
 <div align="center">
 
@@ -180,6 +189,16 @@ Book cataloging, user management, and borrowing-history tracking.
 </div>
 
 Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 — Singur Block & School) — Singur Mahamaya High School, West Bengal
+
+#### 📘 Core Subjects Covered
+
+| Category | Subjects |
+|---|---|
+| **Foundational** | Mathematics, Physics , Chemistry|
+| **Programming & Problem Solving** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs) |
+| **Systems** | Operating Systems, Compiler Design, System Design , Computer Architecture |
+| **Data** | Database Management Systems (DBMS), Artificial Intelligence & Machine Learning (AIML) |
+| **Engineering Practice** | Software Engineering, Software Development Practices |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
@@ -206,7 +225,7 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 ---
 
 
-  ### 🏆 Competitive Programming — 2000+ Problems Solved
+  ### 🏆 Competitive Programming — 2600+ Problems Solved
 
 <div align="center">
 
@@ -217,11 +236,37 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_%7C_Rating_1660-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Spandan_Das/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-600%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-100%2B_%7C_Pupil_(1264)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_300%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483)
+#### 🧠 Rank & Rating Badges
+
+[![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![Codeforces Pupil](https://img.shields.io/badge/Codeforces-Pupil_%7C_Rating_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
+[![CodeChef 3 Star](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_Rating_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
+[![Active Days](https://img.shields.io/badge/Coding_Active_Days-441-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
+
+<br/><br/>
+
+#### 📈 Platform-Wise Problem Breakdown — Total: 2600+
+
+| Platform | Problems Solved | Profile |
+|:---|:---:|:---:|
+| 🟠 **LeetCode** | 506 | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio) |
+| 🟢 **GeeksforGeeks** | 654 | [![GFG](https://img.shields.io/badge/View_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio) |
+| 🟤 **CodeChef** | 544 | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio) |
+| 🔵 **Codeforces** | 115 | [![Codeforces](https://img.shields.io/badge/View_Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio) |
+| ⚪ **Code360 (Naukri)** | 715 | [![Code360](https://img.shields.io/badge/View_Profile-2A5CD8?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio) |
+| 🟩 **HackerRank** | 30 | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio) |
+| 🟣 **InterviewBit** | 40 | [![InterviewBit](https://img.shields.io/badge/View_Profile-6C5CE7?style=flat-square&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio) |
+| **🏆 Total** | **2600+** | [![Codolio](https://img.shields.io/badge/Unified_Profile-Codolio-6C5CE7?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106) |
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-506_Solved_%7C_Knight_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-654_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio)
+[![Codeforces](https://img.shields.io/badge/Codeforces-115_Solved_%7C_Pupil_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
+[![CodeChef](https://img.shields.io/badge/CodeChef-544_Solved_%7C_3%E2%98%85_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
+[![Code360](https://img.shields.io/badge/Code360-715_Solved-2A5CD8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio)
+[![HackerRank](https://img.shields.io/badge/HackerRank-30_Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-40_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
 [![Codolio](https://img.shields.io/badge/Codolio-Unified_Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
 </div>
@@ -343,12 +388,3 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-
-              
-
-
-
-
-
-
-
