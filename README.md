@@ -212,7 +212,32 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 <img src = "WhatsApp Image 2025-11-08 at 23.00.33_46a04c9e.jpg" width = "100" height = "100">
 </p>
 
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
+
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Spandan2106&theme=radical&no-frame=true&row=1&column=7" alt="Spandan2106 Trophies" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Spandan2106&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
+
 
 <h3 align="center">📊 Stats of Obsession</h3>
 
@@ -222,7 +247,10 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spandan2106&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spandan2106&theme=aura&utcOffset=8)
 
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
+
 
 
   ### 🏆 Competitive Programming — 2600+ Problems Solved
@@ -295,7 +323,12 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
+### ⚡ Quick Laugh
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
