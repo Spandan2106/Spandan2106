@@ -188,7 +188,7 @@ Book cataloging, user management, and borrowing-history tracking.
 
 </div>
 
-Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 — Singur Block & School) — Singur Mahamaya High School, West Bengal
+Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur Mahamaya High School, West Bengal
 
 #### 📘 Core Subjects Covered
 
@@ -241,7 +241,7 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 [![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
 [![Codeforces Pupil](https://img.shields.io/badge/Codeforces-Pupil_%7C_Rating_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
 [![CodeChef 3 Star](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_Rating_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
-[![Active Days](https://img.shields.io/badge/Coding_Active_Days-441-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
+[![Active Days](https://img.shields.io/badge/Coding_Active_Days-446-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
 <br/><br/>
 
@@ -249,24 +249,24 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
 
 | Platform | Problems Solved | Profile |
 |:---|:---:|:---:|
-| 🟠 **LeetCode** | 506 | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio) |
+| 🟠 **LeetCode** | 507 | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio) |
 | 🟢 **GeeksforGeeks** | 654 | [![GFG](https://img.shields.io/badge/View_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio) |
 | 🟤 **CodeChef** | 544 | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio) |
 | 🔵 **Codeforces** | 115 | [![Codeforces](https://img.shields.io/badge/View_Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio) |
-| ⚪ **Code360 (Naukri)** | 715 | [![Code360](https://img.shields.io/badge/View_Profile-2A5CD8?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio) |
+| ⚪ **Code360 (Naukri)** | 718 | [![Code360](https://img.shields.io/badge/View_Profile-2A5CD8?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio) |
 | 🟩 **HackerRank** | 30 | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio) |
-| 🟣 **InterviewBit** | 40 | [![InterviewBit](https://img.shields.io/badge/View_Profile-6C5CE7?style=flat-square&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio) |
-| **🏆 Total** | **2600+** | [![Codolio](https://img.shields.io/badge/Unified_Profile-Codolio-6C5CE7?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106) |
+| 🟣 **InterviewBit** | 42 | [![InterviewBit](https://img.shields.io/badge/View_Profile-6C5CE7?style=flat-square&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio) |
+| **🏆 Total** | **2610** | [![Codolio](https://img.shields.io/badge/Unified_Profile-Codolio-6C5CE7?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106) |
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-506_Solved_%7C_Knight_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-507_Solved_%7C_Knight_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-654_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio)
 [![Codeforces](https://img.shields.io/badge/Codeforces-115_Solved_%7C_Pupil_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
 [![CodeChef](https://img.shields.io/badge/CodeChef-544_Solved_%7C_3%E2%98%85_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
-[![Code360](https://img.shields.io/badge/Code360-715_Solved-2A5CD8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio)
+[![Code360](https://img.shields.io/badge/Code360-718_Solved-2A5CD8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio)
 [![HackerRank](https://img.shields.io/badge/HackerRank-30_Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-40_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-42_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
 [![Codolio](https://img.shields.io/badge/Codolio-Unified_Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
 </div>
@@ -374,6 +374,15 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% (Rank 1 —
  </tr>
 </table>
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
+
+### 🎨 Hobbies & Interests
+
+- **🖌️ Art & Drawing** | Watercolor, Pastel, and Pencil Sketching & Shading
+- **📚 Reading** | Always down to get lost in a good book
+- **🎬 Web Series** | Binge-watching Sci-Fi, Fantasy, and Action
+- **✈️ Travelling** | Exploring new places and making memories
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
