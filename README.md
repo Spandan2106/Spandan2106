@@ -218,11 +218,6 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 
 ### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Spandan2106&theme=radical&no-frame=true&row=1&column=7" alt="Spandan2106 Trophies" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Spandan2106&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
