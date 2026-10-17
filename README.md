@@ -291,6 +291,10 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 [![HackerRank](https://img.shields.io/badge/HackerRank-66_Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-50_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
 [![Codolio](https://img.shields.io/badge/Codolio-Unified_Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106)
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_5%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![HackerRank C](https://img.shields.io/badge/HackerRank-C_4%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![HackerRank React](https://img.shields.io/badge/HackerRank-React_3%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
