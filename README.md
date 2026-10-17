@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Spandan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%7C%20Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Spandan+Das+%7C+B.Tech+IT+%40+TMSL+%2724-%2728;2600%2B+DSA+Questions+Solved;Open+to+SDE+%2F+Backend+%2F+DevOps+%2F+Cloud+Roles;Interested+in+AI+%2F+ML+%2F+Cloud+%2F+DevOps;Backend+Development+%7C+AI+Integration+%7C+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Spandan+Das+%7C+B.Tech+IT+%40+TMSL+%2724-%2728;2700%2B+DSA+Questions+Solved;Open+to+SDE+%2F+Backend+%2F+DevOps+%2F+Cloud+Roles;Interested+in+AI+%2F+ML+%2F+Cloud+%2F+DevOps;Backend+Development+%7C+AI+Integration+%7C+Full-Stack+Development" alt="Typing SVG" />
 </a>
 
 
@@ -41,7 +41,7 @@
 
 ### 👋 About Me
 
-I'm a **B.Tech Information Technology student at Techno Main Salt Lake, Kolkata (2024–2028)**, focused on building reliable, scalable backend systems and cloud-native infrastructure. My core interests lie in designing RESTful APIs, distributed and real-time systems, and automated deployment pipelines — using Node.js, Express.js, MongoDB, and TypeScript, backed by hands-on exposure to AWS, containerization, and CI/CD workflows. I've architected and deployed 10+ production-grade systems with JWT-based authentication, role-based access control, and real-time data pipelines — and solved **2600+ DSA problems** to build a strong foundation in algorithms, systems thinking, and problem-solving.
+I'm a **B.Tech Information Technology student at Techno Main Salt Lake, Kolkata (2024–2028)**, focused on building reliable, scalable backend systems and cloud-native infrastructure. My core interests lie in designing RESTful APIs, distributed and real-time systems, and automated deployment pipelines — using Node.js, Express.js, MongoDB, and TypeScript, backed by hands-on exposure to AWS, containerization, and CI/CD workflows. I've architected and deployed 10+ production-grade systems with JWT-based authentication, role-based access control, and real-time data pipelines — and solved **2700+ DSA problems** to build a strong foundation in algorithms, systems thinking, and problem-solving.
 
 🎯 **Currently open to:** SDE Roles · Backend Developer Roles · DevOps Engineer Roles · Cloud Developer Roles
 
@@ -248,7 +248,7 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 
 
-  ### 🏆 Competitive Programming — 2600+ Problems Solved
+  ### 🏆 Competitive Programming — 2700+ Problems Solved
 
 <div align="center">
 
@@ -261,10 +261,10 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 #### 🧠 Rank & Rating Badges
 
-[![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1911-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
 [![Codeforces Pupil](https://img.shields.io/badge/Codeforces-Pupil_%7C_Rating_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
 [![CodeChef 3 Star](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_Rating_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
-[![Active Days](https://img.shields.io/badge/Coding_Active_Days-446-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
+[![Active Days](https://img.shields.io/badge/Coding_Active_Days-462-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
 <br/><br/>
 
