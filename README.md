@@ -272,24 +272,24 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 | Platform | Problems Solved | Profile |
 |:---|:---:|:---:|
-| 🟠 **LeetCode** | 507 | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio) |
-| 🟢 **GeeksforGeeks** | 654 | [![GFG](https://img.shields.io/badge/View_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio) |
-| 🟤 **CodeChef** | 544 | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio) |
+| 🟠 **LeetCode** | 522 | [![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio) |
+| 🟢 **GeeksforGeeks** | 650 | [![GFG](https://img.shields.io/badge/View_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio) |
+| 🟤 **CodeChef** | 550 | [![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio) |
 | 🔵 **Codeforces** | 115 | [![Codeforces](https://img.shields.io/badge/View_Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio) |
-| ⚪ **Code360 (Naukri)** | 718 | [![Code360](https://img.shields.io/badge/View_Profile-2A5CD8?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio) |
-| 🟩 **HackerRank** | 30 | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio) |
-| 🟣 **InterviewBit** | 42 | [![InterviewBit](https://img.shields.io/badge/View_Profile-6C5CE7?style=flat-square&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio) |
-| **🏆 Total** | **2610** | [![Codolio](https://img.shields.io/badge/Unified_Profile-Codolio-6C5CE7?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106) |
+| ⚪ **Code360 (Naukri)** | 747 | [![Code360](https://img.shields.io/badge/View_Profile-2A5CD8?style=flat-square&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio) |
+| 🟩 **HackerRank** | 66 | [![HackerRank](https://img.shields.io/badge/View_Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio) |
+| 🟣 **InterviewBit** | 50 | [![InterviewBit](https://img.shields.io/badge/View_Profile-6C5CE7?style=flat-square&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio) |
+| **🏆 Total** | **2700** | [![Codolio](https://img.shields.io/badge/Unified_Profile-Codolio-6C5CE7?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106) |
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-507_Solved_%7C_Knight_1859-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-522_Solved_%7C_Knight_1911-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-654_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/spandan2024tmsl?utm=codolio)
 [![Codeforces](https://img.shields.io/badge/Codeforces-115_Solved_%7C_Pupil_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
-[![CodeChef](https://img.shields.io/badge/CodeChef-544_Solved_%7C_3%E2%98%85_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
-[![Code360](https://img.shields.io/badge/Code360-718_Solved-2A5CD8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio)
-[![HackerRank](https://img.shields.io/badge/HackerRank-30_Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-42_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
+[![CodeChef](https://img.shields.io/badge/CodeChef-550_Solved_%7C_3%E2%98%85_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
+[![Code360](https://img.shields.io/badge/Code360-747_Solved-2A5CD8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/Spandam?utm=codolio)
+[![HackerRank](https://img.shields.io/badge/HackerRank-66_Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-50_Solved-6C5CE7?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/spandan-das_417?utm=codolio)
 [![Codolio](https://img.shields.io/badge/Codolio-Unified_Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Spandan2106)
 
 </div>
