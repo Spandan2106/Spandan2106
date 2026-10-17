@@ -294,6 +294,9 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 [![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_5%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
 [![HackerRank C](https://img.shields.io/badge/HackerRank-C_4%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
 [![HackerRank React](https://img.shields.io/badge/HackerRank-React_3%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![HackerRank Verified React](https://img.shields.io/badge/HackerRank_Certified-React_Developer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![HackerRank SQL Basic](https://img.shields.io/badge/HackerRank_Certified-SQL_(Basic_%26_Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
+[![HackerRank REST API](https://img.shields.io/badge/HackerRank_Certified-REST_API_(Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sd672483?utm=codolio)
 
 
 </div>
