@@ -261,7 +261,7 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 
 #### 🧠 Rank & Rating Badges
 
-[![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1911-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
+[![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight_%E2%99%9E_%7C_Rating_1937-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Spandan_Das?utm=codolio)
 [![Codeforces Pupil](https://img.shields.io/badge/Codeforces-Pupil_%7C_Rating_1285-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Spandan2025?utm=codolio)
 [![CodeChef 3 Star](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_Rating_1674-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/span_dan_06?utm=codolio)
 [![Active Days](https://img.shields.io/badge/Coding_Active_Days-462-2C5364?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://codolio.com/profile/Spandan2106)
