@@ -227,6 +227,10 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
   <img src="https://trophy.ryglcloud.net/?username=Spandan2106&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="DEBKANTA MAITY's GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Spandan2106&theme=radical&radius=10" alt="debkantamaity4-tech's Activity Graph" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
 
