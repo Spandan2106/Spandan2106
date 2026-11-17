@@ -1,19 +1,8 @@
----
-   <p align="center" valign="center" width="300">
-      <!-- Coding GIF -->
-      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
-
-      
----
-
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Spandan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%7C%20Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Spandan+Das+%7C+B.Tech+IT+%40+TMSL+%2724-%2728;2700%2B+DSA+Questions+Solved;Open+to+SDE+%2F+Backend+%2F+DevOps+%2F+Cloud+Roles;Interested+in+AI+%2F+ML+%2F+Cloud+%2F+DevOps;Backend+Development+%7C+AI+Integration+%7C+Full-Stack+Development" alt="Typing SVG" />
-</a>
 
 
 <br/>
