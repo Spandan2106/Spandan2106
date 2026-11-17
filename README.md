@@ -223,14 +223,6 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
   <img src="https://streak-stats.demolab.com?user=Spandan2106&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandan2106&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
-</div>
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
 
