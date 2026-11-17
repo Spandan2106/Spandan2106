@@ -291,6 +291,19 @@ Higher Secondary 2024 : 91.25% &nbsp;|&nbsp; Secondary 2022 : 96.57% — Singur 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
 
+
+### 🏙️ My 3D GitHub Contribution City
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="My 3D GitHub Contribution City"
+  />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9a7,100:0f2027&height=3&width=100%"/>
+
 ### 🛠️ Languages & Tools
 
 <div align="center">
